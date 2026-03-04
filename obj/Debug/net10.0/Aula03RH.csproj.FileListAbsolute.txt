@@ -12,3 +12,4 @@ D:\bruh\DS\Aula03RH\obj\Debug\net10.0\refint\Aula03RH.dll
 D:\bruh\DS\Aula03RH\obj\Debug\net10.0\Aula03RH.pdb
 D:\bruh\DS\Aula03RH\obj\Debug\net10.0\Aula03RH.genruntimeconfig.cache
 D:\bruh\DS\Aula03RH\obj\Debug\net10.0\ref\Aula03RH.dll
+D:\bruh\DS\Aula03RH\obj\Debug\net10.0\Aula03RH.sourcelink.json
